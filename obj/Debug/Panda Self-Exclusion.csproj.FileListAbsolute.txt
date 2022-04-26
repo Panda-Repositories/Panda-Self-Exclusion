@@ -1,0 +1,8 @@
+D:\Project Panda Development\Panda Self-Exclusion\obj\Debug\Panda Self-Exclusion.csproj.SuggestedBindingRedirects.cache
+D:\Project Panda Development\Panda Self-Exclusion\obj\Debug\Panda Self-Exclusion.csproj.CoreCompileInputs.cache
+D:\Project Panda Development\Panda Self-Exclusion\bin\Debug\PSE.exe.config
+D:\Project Panda Development\Panda Self-Exclusion\bin\Debug\PSE.exe
+D:\Project Panda Development\Panda Self-Exclusion\bin\Debug\PSE.pdb
+D:\Project Panda Development\Panda Self-Exclusion\obj\Debug\Panda Self-Exclusion.csproj.AssemblyReference.cache
+D:\Project Panda Development\Panda Self-Exclusion\obj\Debug\PSE.exe
+D:\Project Panda Development\Panda Self-Exclusion\obj\Debug\PSE.pdb
